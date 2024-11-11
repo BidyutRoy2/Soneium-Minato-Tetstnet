@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Soneium Minato Testnet",
+    "rpcUrl": "https://rpc.minato.soneium.org",
+    "chainId": "1946",
+    "symbol": "ETH",
+    "explorer": "https://soneium-minato.blockscout.com"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
