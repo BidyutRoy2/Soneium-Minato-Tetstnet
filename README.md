@@ -1,4 +1,4 @@
-# Chainbase Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Soneium Minato Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
@@ -10,19 +10,19 @@
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
-# How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
+## How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
 
 ## Steps
 
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Soneium-Minato-Tetstnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Soneium-Minato-Tetstnet
 cd Transaction-Bot
 ```
 
@@ -62,7 +62,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Soneium-Minato-Tetstnet
 cd Contracts-Deploy-Bot
 ```
 
@@ -85,10 +85,10 @@ Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef123456789
 
 ### 6. Follow Next Step and Deploy Contracts 
 
+### 7. Complete Dapps Transaction in Layer3 [JOIN HERE](https://app.layer3.xyz/quests?ref=0x2f2c74DA28A6BA75bd8eFC50Da89c30D53d22382)
 
 
-## Follow the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
-
+-------------------------------------------
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
 
